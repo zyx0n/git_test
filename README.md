@@ -1,1 +1,3 @@
 # git_test
+Prvi GITHUB Repository
+CAO ODINEEEEEEEEEEEEEE!
